@@ -1,4 +1,4 @@
-### TalentScout-An-AI-Hiring-Assistant
+ TalentScout-An-AI-Hiring-Assistant
 # Overview
 1.This is Streamlit application, developed using Python,Google Generative AI, Gemini pro model.
 2.The target audience of this this application are the people who are seeking a job oppurtunities and learning new skills based on the roles.
