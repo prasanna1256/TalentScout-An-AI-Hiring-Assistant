@@ -29,5 +29,12 @@
 5. Its open sourced and allows for only limited queries.
 
 # Application photos
-![Screenshot (294)](https://github.com/user-attachments/assets/b4d1dd00-0dcf-4f6c-bdfa-b59d6ca5a1fb)
 
+![Screenshot (294)](https://github.com/user-attachments/assets/70c160ec-3775-4f18-824d-64d8d365829d)
+![Screenshot (295)](https://github.com/user-attachments/assets/ec95564c-9fd8-4340-83ca-b542246c215c)
+![Screenshot (296)](https://github.com/user-attachments/assets/f9827644-a9b8-440a-8960-b8ca0380b490)
+![Screenshot (297)](https://github.com/user-attachments/assets/e393535f-6ae6-4f08-85ba-3dae69de350b)
+![Screenshot (298)](https://github.com/user-attachments/assets/65eb92ca-2ab4-4583-bbf4-c342b71086e4)
+![Screenshot (299)](https://github.com/user-attachments/assets/5f1b2976-e8d4-4552-abb6-c5ea4bde53a3)
+![Screenshot (300)](https://github.com/user-attachments/assets/4679bd3e-341e-4a85-8598-7f81f3fd4241)
+![Screenshot (301)](https://github.com/user-attachments/assets/3c5f0ff6-d31b-4061-9f50-aca1341dcb29)
