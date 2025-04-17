@@ -38,3 +38,6 @@
 ![Screenshot (299)](https://github.com/user-attachments/assets/5f1b2976-e8d4-4552-abb6-c5ea4bde53a3)
 ![Screenshot (300)](https://github.com/user-attachments/assets/4679bd3e-341e-4a85-8598-7f81f3fd4241)
 ![Screenshot (301)](https://github.com/user-attachments/assets/3c5f0ff6-d31b-4061-9f50-aca1341dcb29)
+
+# Loom video (link)
+https://www.loom.com/share/c060df5d96d240b6a04e7ef4451e587f?sid=2ee6c914-92b4-4b5b-8e4b-c8e9c10d3c1c
