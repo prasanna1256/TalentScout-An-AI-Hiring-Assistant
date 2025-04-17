@@ -27,3 +27,7 @@
 3. Bugs are quite common while creating project, Resolved IT.
 4. The application works better, if we use paid API key for better result.
 5. Its open sourced and allows for only limited queries.
+
+# Application photos
+![Screenshot (294)](https://github.com/user-attachments/assets/b4d1dd00-0dcf-4f6c-bdfa-b59d6ca5a1fb)
+
